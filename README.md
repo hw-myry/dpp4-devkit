@@ -21,3 +21,12 @@ This is a baseboard designed to support a dual-processor system architecture. It
 - **Ambient light sensor:** OPT3001DNPR  
 - **Temperature & humidity sensor:** SHT30-DIS-B10KS  
 - **JTAG interface**  
+- **Dual-channel USB-to-UART bridge:** FT2232D
+
+<p align="center">
+    <img src="01.jpg" width="60%"/>
+</p>
+
+<p align="center">
+    <img src="03.jpg" width="60%"/>
+</p>
